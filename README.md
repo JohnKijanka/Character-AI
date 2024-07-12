@@ -7,3 +7,5 @@ Character_background.txt needs to be filled out while conversation_topics.txt an
 A sample character_background and conversation_topics are available.
 
 Need to have enviroment variable named OPENAI_API_KEY set to YOUR API key.
+
+Run using 'streamlit run main.py'
